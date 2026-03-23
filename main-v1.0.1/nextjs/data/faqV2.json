@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "id": 1,
+      "question": "Projenin denize mesafesi ne kadar?",
+      "answer": "Icon Temple, Didim Altınkum sahilinde denize sıfır konumda yer almaktadır. Plaja sadece 30 metre yürüme mesafesindedir."
+    },
+    {
+      "id": 2,
+      "question": "Hangi daire tipleri mevcut?",
+      "answer": "Projemiz bünyesinde farklı ihtiyaçlara hitap eden modern tasarımlı 1+1, 2+1 ve 3+1 daire seçenekleri bulunmaktadır."
+    }
+  ],
+  [
+    {
+      "id": 3,
+      "question": "Akıllı ev sistemleri neleri kapsıyor?",
+      "answer": "Yeni nesil otomasyon altyapımız ile aydınlatma, iklimlendirme (klima/yerden ısıtma) ve güvenlik senaryolarını akıllı telefonunuzdan yönetebilirsiniz."
+    },
+    {
+      "id": 4,
+      "question": "Daireler beyaz eşyalı mı teslim ediliyor?",
+      "answer": "Evet, tüm dairelerimiz ankastre mutfak setleri (ocak, fırın, davlumbaz) eksiksiz ve kullanıma hazır şekilde teslim edilmektedir."
+    }
+  ],
+  [
+    {
+      "id": 5,
+      "question": "Kışın konaklama için uygun mu?",
+      "answer": "Yüksek verimli ısı yalıtımı ve gelişmiş yerden ısıtma sistemimiz sayesinde projemiz 12 ay boyunca konforlu bir yaşam sunmaktadır."
+    },
+    {
+      "id": 6,
+      "question": "Projenin inşaat ve işletme güvencesi kime ait?",
+      "answer": "Icon Temple, 1993 yılından bu yana turizm ve inşaat sektöründe faaliyet gösteren, Didim merkezli köklü bir marka olan Temple Grup güvencesiyle hayata geçirilmektedir."
+    }
+  ]
+]

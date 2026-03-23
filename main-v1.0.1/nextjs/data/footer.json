@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Daireler",
+    "links": [
+      { "href": "/icon-temple-residence-1-1-daire", "label": "1+1 Daire Özellikleri" },
+      { "href": "/icon-temple-residence-2-1-daire", "label": "2+1 Daire Özellikleri" },
+      { "href": "/icon-temple-residence-3-1-daire", "label": "3+1 Daire Özellikleri" }
+    ]
+  },
+  {
+    "title": "Kurumsal",
+    "links": [
+      { "href": "/", "label": "Anasayfa" },
+      { "href": "/hakkimizda", "label": "Hakkımızda" },
+      { "href": "/didim-ozellikleri", "label": "Didim" },
+      { "href": "/bina-ozellikleri", "label": "Bina Özellikleri" },
+      { "href": "/iletisim", "label": "İletişim" }
+    ]
+  }
+]

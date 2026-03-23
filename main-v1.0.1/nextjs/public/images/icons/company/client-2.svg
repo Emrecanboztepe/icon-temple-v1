@@ -1,0 +1,730 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Entegre
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" href="/assets/css/style.css" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="/assets/css/icofont.min.css" type="text/css" media="screen" charset="utf-8" /><link rel="stylesheet" href="/assets/js/owlcarousel/assets/owl.carousel.css" /><link rel="stylesheet" href="/assets/js/fancybox/jquery.fancybox.css" /><link rel="stylesheet" href="/assets/js/scrollBar/jquery.mCustomScrollbar.css" />
+	<script src="https://bundles.efilli.com/entegreharc.com.tr.prod.js"></script>
+    
+	<style>
+		@media screen and (max-width: 780px) {
+			.item.s7{background-image: url(assets/images/slide/7m.jpg)!important;}
+			.item.s8{background-image: url(assets/images/slide/8m.jpg)!important;}
+			/*.item.s9{background-image: url(assets/images/slide/9m.jpg)!important;}*/
+			.item.s10{background-image: url(assets/images/slide/karofix-m.jpg)!important;}
+			/*.item.s11{background-image: url(assets/images/slide/sivamatik-m.jpg)!important;}*/
+			.item.s12{background-image: url(assets/images/slide/yapi-m.jpg)!important;}
+			.item.s13{background-image: url(assets/images/slide/sifirAtikMobile.jpg)!important;}
+
+			.item.s14{background-image: url(assets/images/slide/alcimatik-m.jpg)!important;}
+			.item.s15{background-image: url(assets/images/slide/powerfix-m.jpg)!important;}
+			.item.s16{background-image: url(assets/images/slide/c30-m.jpg)!important;}
+		}
+	</style>
+
+
+	<!-- Google Tag Manager -->
+
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+
+    })(window, document, 'script', 'dataLayer', 'GTM-PGBNT6XS');</script>
+
+<!-- End Google Tag Manager -->
+
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3SV2BSR7XM"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-3SV2BSR7XM');
+</script>
+</head>
+<body>
+	<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PGBNT6XS"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyOTk2NzYzMzUPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgICAw9kFgYCAQ8WAh4LXyFJdGVtQ291bnQCChYUZg9kFgRmDxUDE2FsY2ktZXNhc2xpLXVydW5sZXImNjM3MDA3ODU0MTI4NzczMDAxQWxjaS5Fc2FzbGkuU2l2YS5wbmcWQUzDh0kgRVNBU0xJIMOcUsOcTkxFUmQCAQ8WAh8BAgEWAmYPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAUrL2NvenVtbGVyL2FsY2ktZXNhc2xpLXVydW5sZXIveWFwaS1hbGNpbGFyaR4EVGV4dAUOWUFQSSBBTMOHSUxBUklkZAIBD2QWBGYPFQMWY2ltZW50by1lc2FzbGktdXJ1bmxlcik2MzcwMDc4NTQ1NDgzMDQyODdDaW1lbnRvLkVzYXNsaS5TaXZhLnBuZxrDh8SwTUVOVE8gRVNBU0xJIMOcUsOcTkxFUmQCAQ8WAh8BAgIWBGYPZBYCAgEPDxYEHwIFLy9jb3p1bWxlci9jaW1lbnRvLWVzYXNsaS11cnVubGVyL2NlcGhlLXVydW5sZXJpHwMFEUNFUEhFIMOcUsOcTkxFUsSwZGQCAQ9kFgICAQ8PFgQfAgUyL2NvenVtbGVyL2NpbWVudG8tZXNhc2xpLXVydW5sZXIvZGVrb3JhdGlmLXNpdmFsYXIfAwUSREVLT1JBVMSwRiBTSVZBTEFSZGQCAg9kFgRmDxUDDnRla25pay1oYXJjbGFyJDYzNzAwNzg1NDY1MDE3OTMzOVRla25pay5IYXJjbGFyLnBuZxBURUtOxLBLIEhBUsOHTEFSZAIBDxYCHwECAxYGZg9kFgICAQ8PFgQfAgUmL2NvenVtbGVyL3Rla25pay1oYXJjbGFyL29yZ3UtaGFyY2xhcmkfAwUQw5ZSR8OcIEhBUsOHTEFSSWRkAgEPZBYCAgEPDxYEHwIFMS9jb3p1bWxlci90ZWtuaWstaGFyY2xhci90YW1pci12ZS1hbmtyYWotaGFyY2xhcmkfAwUaVEFNxLBSIHZlIEFOS1JBSiBIQVLDh0xBUklkZAICD2QWAgIBDw8WBB8CBSQvY296dW1sZXIvdGVrbmlrLWhhcmNsYXIvaGF6aXItYmV0b24fAwULSEFaSVIgQkVUT05kZAIDD2QWBGYPFQMPemVtaW4tY296dW1sZXJpJTYzNzAwNzg1NDkxNDU1NDI0M1plbWluLkNvenVtbGVyaS5wbmcUWkVNxLBOIMOHw5Zaw5xNTEVSxLBkAgEPFgIfAQICFgRmD2QWAgIBDw8WBB8CBSgvY296dW1sZXIvemVtaW4tY296dW1sZXJpL3plbWluLXVydW5sZXJpHwMFEVpFTWlOIMOcUsOcTkxFUsSwZGQCAQ9kFgICAQ8PFgQfAgUmL2NvenVtbGVyL3plbWluLWNvenVtbGVyaS9lcG9rc2ktZ3J1YnUfAwUNRVBPS1PEsCBHUlVCVWRkAgQPZBYEZg8VAx90YW1hbWxheWljaS12ZS15YXJkaW1jaS11cnVubGVyKTYzNzAwNzg1NTAxMTc0MTk3M1RhbWFtbGF5aWNpLlVydW5sZXIucG5nIVRBTUFNTEFZSUNJIHZlIFlBUkRJTUNJIMOcUsOcTkxFUmQCAQ8WAh8BAgIWBGYPZBYCAgEPDxYEHwIFOC9jb3p1bWxlci90YW1hbWxheWljaS12ZS15YXJkaW1jaS11cnVubGVyL3l1emV5LWhhemlybGlrHwMFD1nDnFpFWSBIQVpJUkxJS2RkAgEPZBYCAgEPDxYEHwIFRi9jb3p1bWxlci90YW1hbWxheWljaS12ZS15YXJkaW1jaS11cnVubGVyL2thdGtpbGFyLXZlLXlhcmRpbWNpLXVydW5sZXIfAwUeS0FUS0lMQVIgdmUgWUFSRElNQ0kgw5xSw5xOTEVSZGQCBQ9kFgRmDxUDH3lhcGlzdGlyaWNpbGFyLXZlLWRlcnotZG9sZ3VsYXIkNjM3MDA3ODU1MTEzMTQ3ODQ4WWFwaXN0aXJpY2lsYXIucG5nIFlBUEnFnlRJUklDSUxBUiB2ZSBERVJaIERPTEdVTEFSZAIBDxYCHwECBBYIZg9kFgICAQ8PFgQfAgU9L2NvenVtbGVyL3lhcGlzdGlyaWNpbGFyLXZlLWRlcnotZG9sZ3VsYXIveWFwaXN0aXJtYS1oYXJjbGFyaR8DBRVZQVBJxZ5USVJNQSBIQVLDh0xBUklkZAIBD2QWAgIBDw8WBB8CBUwvY296dW1sZXIveWFwaXN0aXJpY2lsYXItdmUtZGVyei1kb2xndWxhci9ha3JpbGlrLWVzYXNsaS1zZXJhbWlrLXlhcGlzdGlyaWNpHwMFJkFLUsSwTMSwSyBFU0FTTEkgU0VSQU3EsEsgWUFQScWeVElSSUNJZGQCAg9kFgICAQ8PFgQfAgVIL2NvenVtbGVyL3lhcGlzdGlyaWNpbGFyLXZlLWRlcnotZG9sZ3VsYXIveWFwaXN0aXJtYS12ZS1kZXJ6LWRvbGd1LWhhcmNpHwMFH1lBUEnFnlRJUk1BIHZlIERFUlogRE9MR1UgSEFSQ0lkZAIDD2QWAgIBDw8WBB8CBTcvY296dW1sZXIveWFwaXN0aXJpY2lsYXItdmUtZGVyei1kb2xndWxhci9kZXJ6LWRvbGd1bGFyHwMFDURFUlogRE9MR1VMQVJkZAIGD2QWBGYPFQMUc3UteWFsaXRpbS1jb3p1bWxlcmkqNjM3MDA3ODU1MjM1MzM1NDI3U3UuWWFsaXRpbS5Db3p1bWxlcmkucG5nGFNVIFlBTElUSU0gw4fDllrDnE1MRVLEsGQCAQ8WAh8BAgYWDGYPZBYCAgEPDxYEHwIFMC9jb3p1bWxlci9zdS15YWxpdGltLWNvenVtbGVyaS9jaW1lbnRvLWVzYXNsaWxhch8DBRPDh8SwTUVOVE8gRVNBU0xJTEFSZGQCAQ9kFgICAQ8PFgQfAgUwL2NvenVtbGVyL3N1LXlhbGl0aW0tY296dW1sZXJpL2FrcmlsaWstZXNhc2xpbGFyHwMFE0FLUsSwTMSwSyBFU0FTTElMQVJkZAICD2QWAgIBDw8WBB8CBTMvY296dW1sZXIvc3UteWFsaXRpbS1jb3p1bWxlcmkvcG9saXVyZXRhbi1lc2FzbGlsYXIfAwUWUE9MxLDDnFJFVEFOIEVTQVNMSUxBUmRkAgMPZBYCAgEPDxYEHwIFLi9jb3p1bWxlci9zdS15YWxpdGltLWNvenVtbGVyaS9iaXR1bS1lc2FzbGlsYXIfAwURQsSwVMOcTSBFU0FTTElMQVJkZAIED2QWAgIBDw8WBB8CBSgvY296dW1sZXIvc3UteWFsaXRpbS1jb3p1bWxlcmkvbWFzdGlrbGVyHwMFCk1BU1TEsEtMRVJkZAIFD2QWAgIBDw8WBB8CBS4vY296dW1sZXIvc3UteWFsaXRpbS1jb3p1bWxlcmkvZW50ZWdyZS1iYW50bGFyHwMFD0VOVEVHUkUgQkFOVExBUmRkAgcPZBYEZg8VAxVpc2kteWFsaXRpbS1jb3p1bWxlcmksNjM3MDA3ODU1MzMwNjQ4MDI5SXNpLllhbGl0aW0uU2lzdGVtbGVyaS5wbmcZSVNJIFlBTElUSU0gw4fDllrDnE1MRVLEsGQCAQ8WAh8BAgMWBmYPZBYCAgEPDxYEHwIFNi9jb3p1bWxlci9pc2kteWFsaXRpbS1jb3p1bWxlcmkvdHVydW5jdS1wYWtldC1zaXN0ZW1pLR8DBRlUVVJVTkNVIFBBS0VUIFPEsFNURU3EsMKuZGQCAQ9kFgICAQ8PFgQfAgU0L2NvenVtbGVyL2lzaS15YWxpdGltLWNvenVtbGVyaS9pc2kteWFsaXRpbS11cnVubGVyaR8DBRdJU0kgWUFMSVRJTSDDnFLDnE5MRVLEsGRkAgIPZBYCAgEPDxYEHwIFMi9jb3p1bWxlci9pc2kteWFsaXRpbS1jb3p1bWxlcmkvZGlzLWNlcGhlLWJveWFsYXJpHwMFE0RJxZ4gQ0VQSEUgQk9ZQUxBUklkZAIID2QWBGYPFQMFa2lyZWMbNjM3MDA3ODU1NDI2MTE2NjAwS2lyZWMucG5nB0vEsFJFw4dkAgEPFgIfAQIDFgZmD2QWAgIBDw8WBB8CBRwvY296dW1sZXIva2lyZWMvc29ubXVzLWtpcmVjHwMFEVPDlk5Nw5zFniBLxLBSRcOHZGQCAQ9kFgICAQ8PFgQfAgUeL2NvenVtbGVyL2tpcmVjL3Nvbm1lbWlzLWtpcmVjHwMFE1PDlk5NRU3EsMWeIEvEsFJFw4dkZAICD2QWAgIBDw8WBB8CBRwvY296dW1sZXIva2lyZWMvdGFyaW0ta2lyZWNpHwMFDlRBUklNIEvEsFJFQ8SwZGQCCQ9kFgRmDxUDBmFncmVnYRw2MzcwMDc4NTU1ODU4MDQyNTJBZ3JlZ2EucG5nBkFHUkVHQWQCAQ8WAh8BAgEWAmYPZBYCAgEPDxYEHwIFIS9jb3p1bWxlci9hZ3JlZ2EvYWdyZWdhLWNlc2l0bGVyaR8DBRRBR1JFR0Egw4dFxZ7EsFRMRVLEsGRkAgcPZBYCAgEPFgIfAQIKFhRmD2QWBGYPFQEWQUzDh0kgRVNBU0xJIMOcUsOcTkxFUmQCAQ8WAh8BAgEWAmYPZBYCAgEPDxYEHwIFKy9jb3p1bWxlci9hbGNpLWVzYXNsaS11cnVubGVyL3lhcGktYWxjaWxhcmkfAwUOWUFQSSBBTMOHSUxBUklkZAIBD2QWBGYPFQEaw4fEsE1FTlRPIEVTQVNMSSDDnFLDnE5MRVJkAgEPFgIfAQICFgRmD2QWAgIBDw8WBB8CBS8vY296dW1sZXIvY2ltZW50by1lc2FzbGktdXJ1bmxlci9jZXBoZS11cnVubGVyaR8DBRFDRVBIRSDDnFLDnE5MRVLEsGRkAgEPZBYCAgEPDxYEHwIFMi9jb3p1bWxlci9jaW1lbnRvLWVzYXNsaS11cnVubGVyL2Rla29yYXRpZi1zaXZhbGFyHwMFEkRFS09SQVTEsEYgU0lWQUxBUmRkAgIPZBYEZg8VARBURUtOxLBLIEhBUsOHTEFSZAIBDxYCHwECAxYGZg9kFgICAQ8PFgQfAgUmL2NvenVtbGVyL3Rla25pay1oYXJjbGFyL29yZ3UtaGFyY2xhcmkfAwUQw5ZSR8OcIEhBUsOHTEFSSWRkAgEPZBYCAgEPDxYEHwIFMS9jb3p1bWxlci90ZWtuaWstaGFyY2xhci90YW1pci12ZS1hbmtyYWotaGFyY2xhcmkfAwUaVEFNxLBSIHZlIEFOS1JBSiBIQVLDh0xBUklkZAICD2QWAgIBDw8WBB8CBSQvY296dW1sZXIvdGVrbmlrLWhhcmNsYXIvaGF6aXItYmV0b24fAwULSEFaSVIgQkVUT05kZAIDD2QWBGYPFQEUWkVNxLBOIMOHw5Zaw5xNTEVSxLBkAgEPFgIfAQICFgRmD2QWAgIBDw8WBB8CBSgvY296dW1sZXIvemVtaW4tY296dW1sZXJpL3plbWluLXVydW5sZXJpHwMFEVpFTWlOIMOcUsOcTkxFUsSwZGQCAQ9kFgICAQ8PFgQfAgUmL2NvenVtbGVyL3plbWluLWNvenVtbGVyaS9lcG9rc2ktZ3J1YnUfAwUNRVBPS1PEsCBHUlVCVWRkAgQPZBYEZg8VASFUQU1BTUxBWUlDSSB2ZSBZQVJESU1DSSDDnFLDnE5MRVJkAgEPFgIfAQICFgRmD2QWAgIBDw8WBB8CBTgvY296dW1sZXIvdGFtYW1sYXlpY2ktdmUteWFyZGltY2ktdXJ1bmxlci95dXpleS1oYXppcmxpax8DBQ9Zw5xaRVkgSEFaSVJMSUtkZAIBD2QWAgIBDw8WBB8CBUYvY296dW1sZXIvdGFtYW1sYXlpY2ktdmUteWFyZGltY2ktdXJ1bmxlci9rYXRraWxhci12ZS15YXJkaW1jaS11cnVubGVyHwMFHktBVEtJTEFSIHZlIFlBUkRJTUNJIMOcUsOcTkxFUmRkAgUPZBYEZg8VASBZQVBJxZ5USVJJQ0lMQVIgdmUgREVSWiBET0xHVUxBUmQCAQ8WAh8BAgQWCGYPZBYCAgEPDxYEHwIFPS9jb3p1bWxlci95YXBpc3RpcmljaWxhci12ZS1kZXJ6LWRvbGd1bGFyL3lhcGlzdGlybWEtaGFyY2xhcmkfAwUVWUFQScWeVElSTUEgSEFSw4dMQVJJZGQCAQ9kFgICAQ8PFgQfAgVML2NvenVtbGVyL3lhcGlzdGlyaWNpbGFyLXZlLWRlcnotZG9sZ3VsYXIvYWtyaWxpay1lc2FzbGktc2VyYW1pay15YXBpc3RpcmljaR8DBSZBS1LEsEzEsEsgRVNBU0xJIFNFUkFNxLBLIFlBUEnFnlRJUklDSWRkAgIPZBYCAgEPDxYEHwIFSC9jb3p1bWxlci95YXBpc3RpcmljaWxhci12ZS1kZXJ6LWRvbGd1bGFyL3lhcGlzdGlybWEtdmUtZGVyei1kb2xndS1oYXJjaR8DBR9ZQVBJxZ5USVJNQSB2ZSBERVJaIERPTEdVIEhBUkNJZGQCAw9kFgICAQ8PFgQfAgU3L2NvenVtbGVyL3lhcGlzdGlyaWNpbGFyLXZlLWRlcnotZG9sZ3VsYXIvZGVyei1kb2xndWxhch8DBQ1ERVJaIERPTEdVTEFSZGQCBg9kFgRmDxUBGFNVIFlBTElUSU0gw4fDllrDnE1MRVLEsGQCAQ8WAh8BAgYWDGYPZBYCAgEPDxYEHwIFMC9jb3p1bWxlci9zdS15YWxpdGltLWNvenVtbGVyaS9jaW1lbnRvLWVzYXNsaWxhch8DBRPDh8SwTUVOVE8gRVNBU0xJTEFSZGQCAQ9kFgICAQ8PFgQfAgUwL2NvenVtbGVyL3N1LXlhbGl0aW0tY296dW1sZXJpL2FrcmlsaWstZXNhc2xpbGFyHwMFE0FLUsSwTMSwSyBFU0FTTElMQVJkZAICD2QWAgIBDw8WBB8CBTMvY296dW1sZXIvc3UteWFsaXRpbS1jb3p1bWxlcmkvcG9saXVyZXRhbi1lc2FzbGlsYXIfAwUWUE9MxLDDnFJFVEFOIEVTQVNMSUxBUmRkAgMPZBYCAgEPDxYEHwIFLi9jb3p1bWxlci9zdS15YWxpdGltLWNvenVtbGVyaS9iaXR1bS1lc2FzbGlsYXIfAwURQsSwVMOcTSBFU0FTTElMQVJkZAIED2QWAgIBDw8WBB8CBSgvY296dW1sZXIvc3UteWFsaXRpbS1jb3p1bWxlcmkvbWFzdGlrbGVyHwMFCk1BU1TEsEtMRVJkZAIFD2QWAgIBDw8WBB8CBS4vY296dW1sZXIvc3UteWFsaXRpbS1jb3p1bWxlcmkvZW50ZWdyZS1iYW50bGFyHwMFD0VOVEVHUkUgQkFOVExBUmRkAgcPZBYEZg8VARlJU0kgWUFMSVRJTSDDh8OWWsOcTUxFUsSwZAIBDxYCHwECAxYGZg9kFgICAQ8PFgQfAgU2L2NvenVtbGVyL2lzaS15YWxpdGltLWNvenVtbGVyaS90dXJ1bmN1LXBha2V0LXNpc3RlbWktHwMFGVRVUlVOQ1UgUEFLRVQgU8SwU1RFTcSwwq5kZAIBD2QWAgIBDw8WBB8CBTQvY296dW1sZXIvaXNpLXlhbGl0aW0tY296dW1sZXJpL2lzaS15YWxpdGltLXVydW5sZXJpHwMFF0lTSSBZQUxJVElNIMOcUsOcTkxFUsSwZGQCAg9kFgICAQ8PFgQfAgUyL2NvenVtbGVyL2lzaS15YWxpdGltLWNvenVtbGVyaS9kaXMtY2VwaGUtYm95YWxhcmkfAwUTREnFniBDRVBIRSBCT1lBTEFSSWRkAggPZBYEZg8VAQdLxLBSRcOHZAIBDxYCHwECAxYGZg9kFgICAQ8PFgQfAgUcL2NvenVtbGVyL2tpcmVjL3Nvbm11cy1raXJlYx8DBRFTw5ZOTcOcxZ4gS8SwUkXDh2RkAgEPZBYCAgEPDxYEHwIFHi9jb3p1bWxlci9raXJlYy9zb25tZW1pcy1raXJlYx8DBRNTw5ZOTUVNxLDFniBLxLBSRcOHZGQCAg9kFgICAQ8PFgQfAgUcL2NvenVtbGVyL2tpcmVjL3RhcmltLWtpcmVjaR8DBQ5UQVJJTSBLxLBSRUPEsGRkAgkPZBYEZg8VAQZBR1JFR0FkAgEPFgIfAQIBFgJmD2QWAgIBDw8WBB8CBSEvY296dW1sZXIvYWdyZWdhL2FncmVnYS1jZXNpdGxlcmkfAwUUQUdSRUdBIMOHRcWexLBUTEVSxLBkZAIJDxYCHwECChYUZg9kFgJmDxUCE2FsY2ktZXNhc2xpLXVydW5sZXIWQUzDh0kgRVNBU0xJIMOcUsOcTkxFUmQCAQ9kFgJmDxUCFmNpbWVudG8tZXNhc2xpLXVydW5sZXIaw4fEsE1FTlRPIEVTQVNMSSDDnFLDnE5MRVJkAgIPZBYCZg8VAg50ZWtuaWstaGFyY2xhchBURUtOxLBLIEhBUsOHTEFSZAIDD2QWAmYPFQIPemVtaW4tY296dW1sZXJpFFpFTcSwTiDDh8OWWsOcTUxFUsSwZAIED2QWAmYPFQIfdGFtYW1sYXlpY2ktdmUteWFyZGltY2ktdXJ1bmxlciFUQU1BTUxBWUlDSSB2ZSBZQVJESU1DSSDDnFLDnE5MRVJkAgUPZBYCZg8VAh95YXBpc3RpcmljaWxhci12ZS1kZXJ6LWRvbGd1bGFyIFlBUEnFnlRJUklDSUxBUiB2ZSBERVJaIERPTEdVTEFSZAIGD2QWAmYPFQIUc3UteWFsaXRpbS1jb3p1bWxlcmkYU1UgWUFMSVRJTSDDh8OWWsOcTUxFUsSwZAIHD2QWAmYPFQIVaXNpLXlhbGl0aW0tY296dW1sZXJpGUlTSSBZQUxJVElNIMOHw5Zaw5xNTEVSxLBkAggPZBYCZg8VAgVraXJlYwdLxLBSRcOHZAIJD2QWAmYPFQIGYWdyZWdhBkFHUkVHQWRkSW75/L0uh/lAEMSoouyACYyAeJm1kQBz/PUhcIwVKao=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div>
+        <header>
+		    <div class="content">
+			    <a href="/" class="logo"></a>
+
+                <a href="javascript:;" class="mobileMenuLink">
+	                <div class="mobileMenuLinkContent">
+	                    <span class="line1"></span>
+	                    <span class="line2"></span>
+	                    <span class="line3"></span>
+	                </div>
+	            </a>
+                <a href="/en" class="mobileLangLink">EN</a>
+
+			    <div class="headerRight">
+				    <div class="headerTop">
+					    
+                        <a href="/referanslar">Referanslar</a>
+					    <a href="https://bayi.entegreharc.com.tr/" target="_blank" class="portalLink">BAYİ PORTALI</a>
+					    <div class="lang">
+						    <a href="/en">EN</a>
+					    </div>
+				    </div>
+				    <div class="headerBottom">
+					    <nav>
+						    <ul>
+							    <li><a href="/kurumsal">KURUMSAL</a></li>
+							    <li><a href="#" class="solutionsLink">ÜRÜNLER & ÇÖZÜMLER</a>
+								    <div class="subMenu">
+									    <div class="subMenuInner">
+										    <div class="content">
+											    <div class="sMenuBox">
+												    <div class="sMenuBoxInner">
+													    <h2>ÇÖZÜMLER</h2>
+													    1978 YILINDAN BUGÜNE YAPININ HER YERİNDE...
+													    <a href="/cozumler" class="all">TÜMÜNÜ GÖR</a>
+												    </div>
+											    </div>
+                                                
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/alci-esasli-urunler"><span><img src="/userfiles/category/637007854128773001Alci.Esasli.Siva.png"></span>ALÇI ESASLI ÜRÜNLER</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_0_subCategoryLink_0" href="/cozumler/alci-esasli-urunler/yapi-alcilari">YAPI ALÇILARI</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/cimento-esasli-urunler"><span><img src="/userfiles/category/637007854548304287Cimento.Esasli.Siva.png"></span>ÇİMENTO ESASLI ÜRÜNLER</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_1_subCategoryLink_0" href="/cozumler/cimento-esasli-urunler/cephe-urunleri">CEPHE ÜRÜNLERİ</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_1_subCategoryLink_1" href="/cozumler/cimento-esasli-urunler/dekoratif-sivalar">DEKORATİF SIVALAR</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/teknik-harclar"><span><img src="/userfiles/category/637007854650179339Teknik.Harclar.png"></span>TEKNİK HARÇLAR</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_2_subCategoryLink_0" href="/cozumler/teknik-harclar/orgu-harclari">ÖRGÜ HARÇLARI</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_2_subCategoryLink_1" href="/cozumler/teknik-harclar/tamir-ve-ankraj-harclari">TAMİR ve ANKRAJ HARÇLARI</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_2_subCategoryLink_2" href="/cozumler/teknik-harclar/hazir-beton">HAZIR BETON</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/zemin-cozumleri"><span><img src="/userfiles/category/637007854914554243Zemin.Cozumleri.png"></span>ZEMİN ÇÖZÜMLERİ</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_3_subCategoryLink_0" href="/cozumler/zemin-cozumleri/zemin-urunleri">ZEMiN ÜRÜNLERİ</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_3_subCategoryLink_1" href="/cozumler/zemin-cozumleri/epoksi-grubu">EPOKSİ GRUBU</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/tamamlayici-ve-yardimci-urunler"><span><img src="/userfiles/category/637007855011741973Tamamlayici.Urunler.png"></span>TAMAMLAYICI ve YARDIMCI ÜRÜNLER</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_4_subCategoryLink_0" href="/cozumler/tamamlayici-ve-yardimci-urunler/yuzey-hazirlik">YÜZEY HAZIRLIK</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_4_subCategoryLink_1" href="/cozumler/tamamlayici-ve-yardimci-urunler/katkilar-ve-yardimci-urunler">KATKILAR ve YARDIMCI ÜRÜNLER</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/yapistiricilar-ve-derz-dolgular"><span><img src="/userfiles/category/637007855113147848Yapistiricilar.png"></span>YAPIŞTIRICILAR ve DERZ DOLGULAR</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_5_subCategoryLink_0" href="/cozumler/yapistiricilar-ve-derz-dolgular/yapistirma-harclari">YAPIŞTIRMA HARÇLARI</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_5_subCategoryLink_1" href="/cozumler/yapistiricilar-ve-derz-dolgular/akrilik-esasli-seramik-yapistirici">AKRİLİK ESASLI SERAMİK YAPIŞTIRICI</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_5_subCategoryLink_2" href="/cozumler/yapistiricilar-ve-derz-dolgular/yapistirma-ve-derz-dolgu-harci">YAPIŞTIRMA ve DERZ DOLGU HARCI</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_5_subCategoryLink_3" href="/cozumler/yapistiricilar-ve-derz-dolgular/derz-dolgular">DERZ DOLGULAR</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/su-yalitim-cozumleri"><span><img src="/userfiles/category/637007855235335427Su.Yalitim.Cozumleri.png"></span>SU YALITIM ÇÖZÜMLERİ</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_6_subCategoryLink_0" href="/cozumler/su-yalitim-cozumleri/cimento-esaslilar">ÇİMENTO ESASLILAR</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_6_subCategoryLink_1" href="/cozumler/su-yalitim-cozumleri/akrilik-esaslilar">AKRİLİK ESASLILAR</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_6_subCategoryLink_2" href="/cozumler/su-yalitim-cozumleri/poliuretan-esaslilar">POLİÜRETAN ESASLILAR</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_6_subCategoryLink_3" href="/cozumler/su-yalitim-cozumleri/bitum-esaslilar">BİTÜM ESASLILAR</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_6_subCategoryLink_4" href="/cozumler/su-yalitim-cozumleri/mastikler">MASTİKLER</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_6_subCategoryLink_5" href="/cozumler/su-yalitim-cozumleri/entegre-bantlar">ENTEGRE BANTLAR</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/isi-yalitim-cozumleri"><span><img src="/userfiles/category/637007855330648029Isi.Yalitim.Sistemleri.png"></span>ISI YALITIM ÇÖZÜMLERİ</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_7_subCategoryLink_0" href="/cozumler/isi-yalitim-cozumleri/turuncu-paket-sistemi-">TURUNCU PAKET SİSTEMİ®</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_7_subCategoryLink_1" href="/cozumler/isi-yalitim-cozumleri/isi-yalitim-urunleri">ISI YALITIM ÜRÜNLERİ</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_7_subCategoryLink_2" href="/cozumler/isi-yalitim-cozumleri/dis-cephe-boyalari">DIŞ CEPHE BOYALARI</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/kirec"><span><img src="/userfiles/category/637007855426116600Kirec.png"></span>KİREÇ</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_8_subCategoryLink_0" href="/cozumler/kirec/sonmus-kirec">SÖNMÜŞ KİREÇ</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_8_subCategoryLink_1" href="/cozumler/kirec/sonmemis-kirec">SÖNMEMİŞ KİREÇ</a>
+                                                                        
+                                                                    
+                                                                        <a id="rptCategory_rptSubCategory_8_subCategoryLink_2" href="/cozumler/kirec/tarim-kireci">TARIM KİRECİ</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+                                                        <div class="sMenuBox">
+												            <div class="sMenuBoxInner">
+													            <h2><a href="/cozumler/agrega"><span><img src="/userfiles/category/637007855585804252Agrega.png"></span>AGREGA</a></h2>
+                                                                <div>
+                                                                
+                                                                        <a id="rptCategory_rptSubCategory_9_subCategoryLink_0" href="/cozumler/agrega/agrega-cesitleri">AGREGA ÇEŞİTLERİ</a>
+                                                                        
+                                                                    
+                                                                </div>
+												            </div>
+											            </div>
+                                                    
+
+											    
+
+											
+										    </div>
+									    </div>
+								    </div>
+							    </li>
+							    
+                                <li><a href="/dokumanlar">DOKÜMANLAR</a></li>
+							    
+							    <li><a href="/iletisim">İLETİŞİM</a></li>
+						    </ul>
+					    </nav>
+					    <div class="search">
+                            <input name="ctl00$searchTxt" type="text" id="searchTxt" class="searchTxt" placeholder="Lütfen aramak istediğiniz kelimeyi girin." />
+                            <input type="submit" name="ctl00$searchBtn" value="" id="searchBtn" class="searchBtn" />
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+	    </header>
+        
+    <section class="mainSlider">
+		<div class="mainSliderWrapper">
+			<div class="owl-carousel" id="mainSlider">
+				<div class="item s14" style="background-image:url(assets/images/slide/alcimatik.jpg);"></div>
+				<div class="item s15" style="background-image:url(assets/images/slide/powerfix.jpg);"></div>
+				<div class="item s16" style="background-image:url(assets/images/slide/c30.jpg);"></div>
+
+				<div class="item s13" style="background-image:url(assets/images/slide/sifirAtik.jpg);"></div>
+				<div class="item s12" style="background-image:url(assets/images/slide/yapi.jpg);"></div>
+				
+				<div class="item s10" style="background-image:url(assets/images/slide/karofix.jpg);"></div>
+
+
+				
+				<div class="item s8" style="background-image:url(assets/images/slide/8.jpg);"></div>
+				<div class="item s7" style="background-image:url(assets/images/slide/7.jpg);"></div>
+
+
+				
+
+
+
+
+
+				
+
+                
+				
+				
+			</div>
+			<a href="#" class="scrollBtn"></a>
+		</div>
+	</section>
+
+	<section class="mainTeasers">
+		<div class="content">
+			<div class="teaserTxt">
+                <strong style="display:block; color:#009769; font-size:18px; padding-bottom:10px;">ENTEGRE HARÇ</strong>
+                Entegre, kalitesiyle en iyilerin tercihi, tecrübesiyle sektörün öncüsü, güvenilirliğiyle pazarının ileri<br /> geleni ve yenilikçi yapısıyla ilklerin adresi olmuştur.
+                <br /><br />
+                <a href="/kurumsal" style="display:inline-block; line-height:40px; color:#fff; padding:0 30px; background:#009769; border-radius:40px;">Devamı için tıklayınız</a>
+			</div>
+
+			
+		</div>
+	</section>
+
+	
+
+	<section class="mainSolutions">
+		<div class="solutionBox">
+			<div>
+				<h2>ÇÖZÜMLER</h2>
+				1978 YILINDAN BUGÜNE YAPININ HER YERİNDE...
+			</div>
+		</div>
+        
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">ALÇI ESASLI ÜRÜNLER</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_0_subSolutionsCategoryLink_0" href="/cozumler/alci-esasli-urunler/yapi-alcilari">YAPI ALÇILARI</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">ÇİMENTO ESASLI ÜRÜNLER</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_1_subSolutionsCategoryLink_0" href="/cozumler/cimento-esasli-urunler/cephe-urunleri">CEPHE ÜRÜNLERİ</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_1_subSolutionsCategoryLink_1" href="/cozumler/cimento-esasli-urunler/dekoratif-sivalar">DEKORATİF SIVALAR</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">TEKNİK HARÇLAR</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_2_subSolutionsCategoryLink_0" href="/cozumler/teknik-harclar/orgu-harclari">ÖRGÜ HARÇLARI</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_2_subSolutionsCategoryLink_1" href="/cozumler/teknik-harclar/tamir-ve-ankraj-harclari">TAMİR ve ANKRAJ HARÇLARI</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_2_subSolutionsCategoryLink_2" href="/cozumler/teknik-harclar/hazir-beton">HAZIR BETON</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">ZEMİN ÇÖZÜMLERİ</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_3_subSolutionsCategoryLink_0" href="/cozumler/zemin-cozumleri/zemin-urunleri">ZEMiN ÜRÜNLERİ</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_3_subSolutionsCategoryLink_1" href="/cozumler/zemin-cozumleri/epoksi-grubu">EPOKSİ GRUBU</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">TAMAMLAYICI ve YARDIMCI ÜRÜNLER</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_4_subSolutionsCategoryLink_0" href="/cozumler/tamamlayici-ve-yardimci-urunler/yuzey-hazirlik">YÜZEY HAZIRLIK</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_4_subSolutionsCategoryLink_1" href="/cozumler/tamamlayici-ve-yardimci-urunler/katkilar-ve-yardimci-urunler">KATKILAR ve YARDIMCI ÜRÜNLER</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">YAPIŞTIRICILAR ve DERZ DOLGULAR</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_5_subSolutionsCategoryLink_0" href="/cozumler/yapistiricilar-ve-derz-dolgular/yapistirma-harclari">YAPIŞTIRMA HARÇLARI</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_5_subSolutionsCategoryLink_1" href="/cozumler/yapistiricilar-ve-derz-dolgular/akrilik-esasli-seramik-yapistirici">AKRİLİK ESASLI SERAMİK YAPIŞTIRICI</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_5_subSolutionsCategoryLink_2" href="/cozumler/yapistiricilar-ve-derz-dolgular/yapistirma-ve-derz-dolgu-harci">YAPIŞTIRMA ve DERZ DOLGU HARCI</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_5_subSolutionsCategoryLink_3" href="/cozumler/yapistiricilar-ve-derz-dolgular/derz-dolgular">DERZ DOLGULAR</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">SU YALITIM ÇÖZÜMLERİ</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_6_subSolutionsCategoryLink_0" href="/cozumler/su-yalitim-cozumleri/cimento-esaslilar">ÇİMENTO ESASLILAR</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_6_subSolutionsCategoryLink_1" href="/cozumler/su-yalitim-cozumleri/akrilik-esaslilar">AKRİLİK ESASLILAR</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_6_subSolutionsCategoryLink_2" href="/cozumler/su-yalitim-cozumleri/poliuretan-esaslilar">POLİÜRETAN ESASLILAR</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_6_subSolutionsCategoryLink_3" href="/cozumler/su-yalitim-cozumleri/bitum-esaslilar">BİTÜM ESASLILAR</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_6_subSolutionsCategoryLink_4" href="/cozumler/su-yalitim-cozumleri/mastikler">MASTİKLER</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_6_subSolutionsCategoryLink_5" href="/cozumler/su-yalitim-cozumleri/entegre-bantlar">ENTEGRE BANTLAR</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">ISI YALITIM ÇÖZÜMLERİ</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_7_subSolutionsCategoryLink_0" href="/cozumler/isi-yalitim-cozumleri/turuncu-paket-sistemi-">TURUNCU PAKET SİSTEMİ®</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_7_subSolutionsCategoryLink_1" href="/cozumler/isi-yalitim-cozumleri/isi-yalitim-urunleri">ISI YALITIM ÜRÜNLERİ</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_7_subSolutionsCategoryLink_2" href="/cozumler/isi-yalitim-cozumleri/dis-cephe-boyalari">DIŞ CEPHE BOYALARI</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">KİREÇ</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_8_subSolutionsCategoryLink_0" href="/cozumler/kirec/sonmus-kirec">SÖNMÜŞ KİREÇ</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_8_subSolutionsCategoryLink_1" href="/cozumler/kirec/sonmemis-kirec">SÖNMEMİŞ KİREÇ</a>
+                                        
+                                    
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_8_subSolutionsCategoryLink_2" href="/cozumler/kirec/tarim-kireci">TARIM KİRECİ</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+                <div class="solutionBox">
+					<div>
+						<span class="sCap">AGREGA</span>
+                        <div class="solutionLinks">
+                            <div class="solutionLinksInner">
+                                
+                                        <a id="contectHolder_rptSolutions_rptSubSolutions_9_subSolutionsCategoryLink_0" href="/cozumler/agrega/agrega-cesitleri">AGREGA ÇEŞİTLERİ</a>
+                                        
+                                    
+                            </div>
+                        </div>
+					</div>
+				</div>
+            
+
+		<!--<div class="solutionBox alci"><div><span class="sCap">ALÇI ESASLI<br> SIVALAR</span></div></div>
+		<div class="solutionBox duvar"><div><span class="sCap">KURU DUVAR<br> SİSTEMLERİ</span></div></div>
+		<div class="solutionBox cimento"><div><span class="sCap">ÇİMENTO ESASLI<br> SIVALAR</span></div></div>
+		<div class="solutionBox harc"><div><span class="sCap">TEKNİK<br> HARÇLAR</span></div></div>
+		<div class="solutionBox zemin"><div><span class="sCap">ZEMİN<br> ÇÖZÜMLERİ</span></div></div>
+		<div class="solutionBox yardimci"><div><span class="sCap">TAMAMLAYICI<br> YARDIMCI ÜRÜNLER</span></div></div>
+		<div class="solutionBox yapistirici"><div><span class="sCap">YAPIŞTIRICILAR<br> DERZ DOLGULAR</span></div></div>
+		<div class="solutionBox su"><div><span class="sCap">SU YALITIM<br> ÇÖZÜMLERİ</span></div></div>
+		<div class="solutionBox isi"><div><span class="sCap">ISI YALITIM<br> ÇÖZÜMLERİ</span></div></div>
+		<div class="solutionBox kirec"><div><span class="sCap">KİREÇ</span></div></div>
+		<div class="solutionBox agrega"><div><span class="sCap">AGREGA</span></div></div>-->
+		<div class="clr"></div>
+	</section>
+    <div style="display:none;">
+        <div  id="popupLauncher" style="display:block; width:95%; max-width:800px;"><a href="https://entegreharc.com.tr/userfiles/onlinekatalog/" target="_blank"><img style="display:block; width:100%;" src="/Userfiles/uploads/katalog-popup.jpg" /></a></div>
+    </div>
+
+        
+	    <section class="bottomTeaser">
+		    <div class="content">
+			    <div class="newsLetter" style="display:none;">
+					<div class="newsLetterLeft">
+						<h2>E-BÜLTEN ÜYELİĞİ</h2>
+						Kampanyalarımız ve ürünlerimiz hakkında ilk ben haberdar olmak istiyorum diyorsanız.<br> Lütfen <strong>E-Bülten</strong> üyeliğimize katılın.<br /><br />
+					</div>
+                    <div class="nForm">
+				        <input type="text" class="name" placeholder="Adınız Soyadınız">
+				        <input type="text" class="mail" placeholder="E-Posta Adresiniz">
+				        <input type="submit" value="GÖNDER">
+			        </div>
+			        <div class="clr"></div>
+
+			    </div>
+				<div class="bottom">
+					<div class="left">
+						<a href="/userfiles/onlinekatalog/" target="_blank">
+							<h2>ONLINE <span>KATALOG</span></h2>
+							Ürünlerimize ve fiyat bilgilerine ulaşabilceğiniz<br /> firma kataloğumuza buradan ulaşabilirsiniz.<br>
+							<span class="more">DETAYLI BİLGİ</span>
+						</a>
+						
+					</div>
+					<div class="left" style="background: url(/assets/images/icons/c2.png) no-repeat right center;">
+						
+						<a href="#">
+							<h2>FİYAT <span>LİSTESİ</span></h2>
+							Fiyat listemiz güncellenmektedir.
+						</a>
+					</div>
+					<div class="right">
+						<h2>SORU <span>İSTEK</span> <font>HATTI</font></h2>
+						<p>Soru, istek ve önerileriniz için bize hafta içi 07:00 - 16:00 saatleri arasında ulaşabilirsiniz.</p>
+						<a href="https://wa.me/905453683473" target="_blank" class="phone">0545 368 34 73 <br> 0545 <span>ENTEGRE</span></a>
+					</div>
+					<div class="clr"></div>
+				</div>
+				
+		    </div>
+	    </section>
+	    <footer>
+		    <div class="content">
+			    <div class="footerCol">
+				    <a href="#" class="footerLogo"><img src="/assets/images/logo.png"></a>
+				    <div class="copyRight">
+					    <span>2019 © Entegre Harç A.Ş.</span>
+					    ENTEGRE A.Ş. web sitesinde her türlü bilgiyi ve görseli değiştirme,<br> düzeltme ve yayınlama hakkını saklı tutar.
+					    
+				    </div>	
+
+			    </div>
+			    <div class="footerNav">
+				    <div>
+					    <a href="/kurumsal">KURUMSAL</a>
+					    <a href="/referanslar">REFERANSLAR</a>
+                        <a href="/dokumanlar">DOKÜMANLAR</a>
+					    <a href="/insan-kaynaklari">İNSAN KAYNAKLARI</a>
+					    <a href="/iletisim">İLETİŞİM</a>
+				    </div>
+				    <div>
+					    <a href="/cozumler">ÜRÜNLER & ÇÖZÜMLER</a>
+                        <a href="/cozumler/alci-esasli-urunler">ALÇI ESASLI ÜRÜNLER</a><a href="/cozumler/cimento-esasli-urunler">ÇİMENTO ESASLI ÜRÜNLER</a><a href="/cozumler/teknik-harclar">TEKNİK HARÇLAR</a><a href="/cozumler/zemin-cozumleri">ZEMİN ÇÖZÜMLERİ</a><a href="/cozumler/tamamlayici-ve-yardimci-urunler">TAMAMLAYICI ve YARDIMCI ÜRÜNLER</a><a href="/cozumler/yapistiricilar-ve-derz-dolgular">YAPIŞTIRICILAR ve DERZ DOLGULAR</a><a href="/cozumler/su-yalitim-cozumleri">SU YALITIM ÇÖZÜMLERİ</a><a href="/cozumler/isi-yalitim-cozumleri">ISI YALITIM ÇÖZÜMLERİ</a><a href="/cozumler/kirec">KİREÇ</a><a href="/cozumler/agrega">AGREGA</a>
+					    
+				    </div>
+			    </div>
+			    <div class="footerContact">
+				    <div class="social">
+					    <span>SOSYAL MEDYA</span>
+					    
+					    <a href="http://instagram.com/entegreharc" target="_blank"><i class="icofont-instagram"></i></a>
+					    <a href="https://www.linkedin.com/company/entegreharc/" target="_blank"><i class="icofont-linkedin"></i></a>
+					    <a href="https://www.facebook.com/ENTEGRE-HAR%C3%87-A%C5%9E-355030987931038/" target="_blank"><i class="icofont-facebook"></i></a>
+				    </div>
+				    <div class="legal">
+					    <a href="/kvkk">KİŞİSEL VERİLERİN KORUNMASI</a>
+					    <a href="https://e-sirket.mkk.com.tr/esir/Dashboard.jsp#/sirketbilgileri/14456" target="_blank">BİLGİ TOPLUMU HİZMETLERİ</a>
+						<a href="/etk">ELEKTRONİK TİCARİ İLETİ</a>
+				    </div>
+			    </div>
+			    <div class="clr"></div>			
+		    </div>
+
+		    <div class="footerBottom">
+			    <div class="content">
+				    <div class="left"> <span>ENTEGRE A.Ş.BİR</span> <a href="#"><img src="/assets/images/ata.png"></a><span>İŞTİRAKİDİR.</span></div>
+				    <a href="http://www.gercekdusler.com.tr" target="_blank" class="gercekdusler"><img src="/assets/images/gercekdusler.png"></a>
+                    <div class="clr"></div>
+			    </div>
+		    </div>
+	    </footer>
+
+        <!--<div id="cookie-policy-container">
+            <div id="pnlCerez">
+	
+                <div id="cookie-policy" class="callout cookie-policy secondary">
+
+                    <div class="container">
+                        <div>
+                            <p>Bu Gizlilik Bildirimi, Gizlilik uygulamalarımıza özet bir bakış sunar. Daha fazla bilgi için lütfen <a href="/userfiles/kvkk.pdf" target="_blank">Gizlilik Politikamıza</a> bakın.</p>
+                            
+                        </div>
+                        <div>
+                            <a id="butCerez" class="close-button" aria-label="Close alert" data-close="" href="javascript:;">
+                        <span aria-hidden="true">×</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            
+</div>
+        </div>-->
+
+        <script type="text/javascript" charset="utf-8" src='/assets/js/jquery.js'></script>
+        <script type="text/javascript" charset="utf-8" src="/assets/js/TweenMax.js"></script>
+        <script type="text/javascript" src="/assets/js/owlcarousel/owl.carousel.js"></script>
+        <script type="text/javascript" charset="utf-8" src='/assets/js/fancybox/jquery.fancybox.js'></script>
+
+
+        <link rel="stylesheet" href="/assets/js/validation/validationEngine.jquery.css">
+        <script src="/assets/js/validation/jquery.validationEngine-tr.js"></script>
+        <script src="/assets/js/validation/jquery.validationEngine.js"></script>
+        <script type="text/javascript" charset="utf-8" src="/assets/js/messagebox.js"></script>
+        <script type="text/javascript" charset="utf-8" src="/assets/js/cookie.js"></script>
+
+        <script type="text/javascript" charset="utf-8" src='/assets/js/functions.js'></script>
+        
+   <script>
+       $('header').addClass('home');
+       $('.solutionsLink').click(function(event) {
+           if ($('header').hasClass('home')) {
+               $('header').removeClass('home');
+           }
+
+       });
+
+       $(window).scroll(function(){
+           if ($(this).scrollTop() > 50) {
+               $('header').removeClass('home');
+           } else {
+               $('header').addClass('home');
+           }
+       });
+
+      
+
+       /*$.fancybox.open({
+           //src: '#popupLauncher'
+		   src :'/assets/images/popup2.jpg'
+       });*/
+
+
+    
+
+   </script>
+
+    </form>
+</body>
+</html>
