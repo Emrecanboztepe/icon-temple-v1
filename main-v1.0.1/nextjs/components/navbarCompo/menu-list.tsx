@@ -23,7 +23,7 @@ const menuItems: MenuItemProps[] = [
     items: [
       { title: '1+1 Daire Özellikleri', url: '/icon-temple-residence-1-1-daire' },
       { title: '2+1 Daire Özellikleri', url: '/icon-temple-residence-2-1-daire' },
-      { title: '3+1 Daire Özellikleri', url: '/icon-temple-residence-3-1-daire' },
+      { title: '3+1 Dublex Daire Özellikleri', url: '/icon-temple-residence-3-1-dublex-daire' },
     ],
   },
   {

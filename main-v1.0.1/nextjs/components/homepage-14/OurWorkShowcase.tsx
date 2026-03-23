@@ -24,8 +24,8 @@ const daireler = [
   },
   {
     id: 3,
-    title: '3+1 Daireler',
-    slug: '/icon-temple-residence-3-1-daire',
+    title: '3+1 Dublex Daireler',
+    slug: '/icon-temple-residence-3-1-dublex-daire',
   },
 ]
 

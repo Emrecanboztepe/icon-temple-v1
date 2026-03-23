@@ -156,7 +156,7 @@ const FooterV2 = () => {
               className="hover:text-primary">
               Purp Agency
             </Link>{' '}
-            💜 Tüm Hakları Saklıdır.
+            Tüm Hakları Saklıdır.
           </p>
         </div>
       </div>

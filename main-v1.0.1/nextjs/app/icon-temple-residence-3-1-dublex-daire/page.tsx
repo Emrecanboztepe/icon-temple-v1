@@ -11,10 +11,10 @@ import LayoutOne from '@/components/shared/LayoutOne'
 import VideoV2 from '@/components/shared/VideoV2'
 
 export const metadata = {
-  title: '1+1 Daire Özellikleri - Icon Temple',
+  title: '3+1 Dublex Daire Özellikleri - Icon Temple',
 }
 
-const IconTempleResidence11Daire = () => {
+const IconTempleResidence31Daire = () => {
   return (
     <LayoutOne>
       <HeroV26 />
@@ -47,4 +47,4 @@ const IconTempleResidence11Daire = () => {
   )
 }
 
-export default IconTempleResidence11Daire
+export default IconTempleResidence31Daire

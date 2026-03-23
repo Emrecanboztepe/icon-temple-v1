@@ -11,7 +11,7 @@ const AboutHero = () => {
           </h1>
 
           <p className="max-w-[470px]">
-            Temple Grup'un 30 yılı aşkın turizm ve inşaat tecrübesini, modern mimarinin en seçkin detaylarıyla
+            Temple Grup'un 35 yılı aşkın turizm ve inşaat tecrübesini, modern mimarinin en seçkin detaylarıyla
             buluşturuyoruz. Icon Temple, Didim'in kalbinde, denize sadece birkaç adım mesafede, sadece bir konut değil;
             estetik, teknoloji ve konforun harmanlandığı ayrıcalıklı bir yaşam kültürü sunmak için tasarlandı.
           </p>

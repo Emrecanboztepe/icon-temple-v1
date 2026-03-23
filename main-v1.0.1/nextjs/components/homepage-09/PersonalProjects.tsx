@@ -55,7 +55,7 @@ const PersonalProjects = () => {
                     {project.title}
                   </h3>
                 </div>
-                <p className="line-clamp-1 text-xs md:line-clamp-none md:text-base" style={{ color: '#ffffff' }}>
+                <p className="hidden md:block md:text-base" style={{ color: '#ffffff' }}>
                   {project.description}
                 </p>
               </div>

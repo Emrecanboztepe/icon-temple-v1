@@ -154,7 +154,7 @@ const ContactFormIconTemple = () => {
                 required>
                 <option value="1+1">1+1 Daireler</option>
                 <option value="2+1">2+1 Daireler</option>
-                <option value="3+1">3+1 Daireler</option>
+                <option value="3+1">3+1 Dublex Daireler</option>
                 <option value="Bilgi">Genel Bilgi</option>
               </select>
               <span className="absolute right-5 top-1/2 translate-y-1/3">

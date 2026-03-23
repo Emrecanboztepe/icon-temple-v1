@@ -27,7 +27,7 @@ const teamMembers: ITeamMember[] = [
   {
     id: '3',
     image: '/images/home-ai/team/ai-team-3.png',
-    title: '3+1 Daireler',
+    title: '3+1 Dublex Daireler',
     position: 'Icon Temple',
   },
   {
@@ -46,7 +46,7 @@ const TeamGallery = () => {
           <SectionHeader
             italicTitle="Yaşam"
             headingTitle="Alanları"
-            description="Icon Temple'da her ihtiyaca uygun, modern mimariyle şekillenmiş daire seçenekleri. Geniş yaşam alanları ve yüksek konfor standartlarıyla tasarlanan 1+1, 2+1 ve 3+1 dairelerimizi keşfedin."
+            description="Icon Temple'da her ihtiyaca uygun, modern mimariyle şekillenmiş daire seçenekleri. Geniş yaşam alanları ve yüksek konfor standartlarıyla tasarlanan 1+1, 2+1 ve 3+1 dublex dairelerimizi keşfedin."
           />
         </div>
 
