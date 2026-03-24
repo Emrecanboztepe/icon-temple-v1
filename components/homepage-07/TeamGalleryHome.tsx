@@ -61,7 +61,7 @@ const TeamGalleryHome = () => {
                     width={344}
                     height={388}
                     alt={member.title}
-                    className="h-full w-full object-cover shadow-lg transition-all duration-300 group-hover:scale-105"
+                    className="aspect-[4/3] w-full object-cover shadow-lg transition-all duration-300 group-hover:scale-105"
                   />
                   <div className="absolute bottom-0 left-0 right-0 m-5 bg-primary px-4 py-4">
                     <div className="blog-title mb-1">
